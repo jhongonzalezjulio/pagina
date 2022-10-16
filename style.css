@@ -1,0 +1,12 @@
+.cont{
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+}
+.imcon{
+    position: relative;
+    left: 7px;
+    top: 10px;
+    width: 80px;
+    height: 80px;
+}
